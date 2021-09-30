@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuninsoft
 - 👀 I’m interested in .NET ecosystem, C#, Unity
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning Xamarin
 - 📫 You can reach me on email: sviatoslav.kunynets@gmail.com
 
 <!---
