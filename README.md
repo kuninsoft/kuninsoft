@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kuninsoft
 - 👀 I’m interested in .NET ecosystem, C# and iOS development
-- 🌱 I’m currently learning SwiftUI & Swift
 - 📫 You can reach me on email: sviatoslav.kunynets@gmail.com
 
 <!---
